@@ -22,6 +22,12 @@ namespace webApiRepo.Controllers
         {
             return View();
         }
+        public IActionResult Contacto()
+        {
+            return View();
+        }
+
+
         public IActionResult suscripcion()
         {
             return View();
